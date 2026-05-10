@@ -1,0 +1,4 @@
+.env
+/devnet-wallet*
+/node_modules
+/dist
