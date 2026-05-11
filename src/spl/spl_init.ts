@@ -97,3 +97,6 @@ const rpcSubscriptions = createSolanaRpcSubscriptions(wsUrl);
     console.log(error);
   }
 })();
+
+// mint address: 9L6T2oeRDzs3Z9fHaX5brfG1oZz8Zn2obDmMBPSEYdSV
+// Transaction Signature: vrw2y3DPzaGdgniFaYD16gryAxEQ7eVDgD1d48azAP89KcbAvaPc4nvvgDNv2zxopi3r1qPX9P6htjuGrnS5cAA
